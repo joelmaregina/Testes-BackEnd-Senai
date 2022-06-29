@@ -1,0 +1,12 @@
+C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\Testes-BackEnd-Senai\ProjetoTesteSenai\ProjetoTesteSenai\obj\Debug\net6.0\ProjetoTesteSenai.csproj.AssemblyReference.cache
+C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\Testes-BackEnd-Senai\ProjetoTesteSenai\ProjetoTesteSenai\obj\Debug\net6.0\ProjetoTesteSenai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\Testes-BackEnd-Senai\ProjetoTesteSenai\ProjetoTesteSenai\obj\Debug\net6.0\ProjetoTesteSenai.AssemblyInfoInputs.cache
+C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\Testes-BackEnd-Senai\ProjetoTesteSenai\ProjetoTesteSenai\obj\Debug\net6.0\ProjetoTesteSenai.AssemblyInfo.cs
+C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\Testes-BackEnd-Senai\ProjetoTesteSenai\ProjetoTesteSenai\obj\Debug\net6.0\ProjetoTesteSenai.csproj.CoreCompileInputs.cache
+C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\Testes-BackEnd-Senai\ProjetoTesteSenai\ProjetoTesteSenai\bin\Debug\net6.0\ProjetoTesteSenai.deps.json
+C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\Testes-BackEnd-Senai\ProjetoTesteSenai\ProjetoTesteSenai\bin\Debug\net6.0\ProjetoTesteSenai.dll
+C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\Testes-BackEnd-Senai\ProjetoTesteSenai\ProjetoTesteSenai\bin\Debug\net6.0\ProjetoTesteSenai.pdb
+C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\Testes-BackEnd-Senai\ProjetoTesteSenai\ProjetoTesteSenai\obj\Debug\net6.0\ProjetoTesteSenai.dll
+C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\Testes-BackEnd-Senai\ProjetoTesteSenai\ProjetoTesteSenai\obj\Debug\net6.0\refint\ProjetoTesteSenai.dll
+C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\Testes-BackEnd-Senai\ProjetoTesteSenai\ProjetoTesteSenai\obj\Debug\net6.0\ProjetoTesteSenai.pdb
+C:\Users\joelm\Desktop\Cursos Programação\Full Stack - Senai\BackEnd\Testes-BackEnd-Senai\ProjetoTesteSenai\ProjetoTesteSenai\obj\Debug\net6.0\ref\ProjetoTesteSenai.dll
