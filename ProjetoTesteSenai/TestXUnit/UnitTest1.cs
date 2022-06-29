@@ -1,7 +1,7 @@
 using ProjetoTesteSenai;
 using Xunit;
 
-namespace TestXUnit
+namespace TestXUnit //XUnit - Mais recente - Mais funções
 {
     public class UnitTest1
     {
