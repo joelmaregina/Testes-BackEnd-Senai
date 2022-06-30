@@ -1,4 +1,4 @@
-# 📃 Relatório do Teste de Integração da API :
+# 📃 Relatório do Teste de Integração da Cauculadora de IMC :
 
 ## **Objetivo**:
 Este teste tem a finalidade de descrever os resultados do Teste de Unidade realizado na aplicação de cálculo e classificação de IMC da NutriVitta pela TestFul, utilizando a ferramenta XUnit do Framework NET(C#).
