@@ -7,7 +7,7 @@ Este teste tem a finalidade de descrever os resultados do Teste de Unidade reali
 
 |Aplicativo| NutriVitta |
 |----------------|----------|
-| Objetivo| Testar a funcionalidade do calculo e classificação do IMC 
+| Objetivo| Testar a funcionalidade do calculo e classificação do IMC <br> Testes únicos e em lista 
 | Ferramentas | XUnit (Framework .NET ) |
 | Linguagem | C# |
 | IDE| Visual Studio |
