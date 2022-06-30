@@ -37,4 +37,4 @@ Este teste tem a finalidade de descrever os resultados do Teste de Unidade reali
 
 - Conforme mostrado na imagem abaixo, a aplicação testada correspondeu às expectativas de funcionamento, sendo aprovados em todos os testes acima descritos e analisados.
 
- <img alt= "Printscreen da tela de resultados do teste, mostrando aprovação em todos os casos de teste" src= "https://github.com/joelmaregina/Testes-BackEnd-Senai/img/TesteNutriVitta.png"> 
+ <img alt= "Printscreen da tela de resultados do teste, mostrando aprovação em todos os casos de teste" src= "https://github.com/joelmaregina/Senai-SQL-API/blob/master/API/img/ResultadoTeste.png"> 
