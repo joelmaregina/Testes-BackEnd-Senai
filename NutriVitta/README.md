@@ -14,6 +14,7 @@ Este teste tem a finalidade de descrever os resultados do Teste de Unidade reali
 | Tipo de teste| Teste de Unidade |
 | Casos de teste com êxito| 10 => 100%
 | Casos de teste com falha| 0 => 0%
+|Responsável pelo teste|Joelma Regina Assis|
 ---
 ## **Desenho de teste :**
 - O desenho do teste desenvolvido pode ser visto através desde <a href = "https://github.com/joelmaregina/Testes-BackEnd-Senai/blob/master/NutriVitta/TestXUnit/UnitTest1.cs">link</a>.
